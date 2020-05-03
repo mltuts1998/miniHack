@@ -8,6 +8,9 @@ Host has to set the riddles and then all the players have to signin with a playe
 Nothing is required, only enthusiasm is required.
 
 ## Working
+
+### video explaination is available(scroll Down)
+
 Player will contact the organizer for registerations. s/he will be given username and password on the day of the hunt.  
 On the day of contest, the player must login to the site.  
 Question or hint will be displayed on the site, Player will solve it, reach the destination, pickup the marker and provide answer as needful like an image or text.  
