@@ -20,13 +20,19 @@ The scoreboard keeps a tab of the players who have completed the hunt along with
 *[vuejs](https://vuejs.org/) - the web framework used  
 *[firebase](https://firebase.google.com/) -  
 *[PWA](https://web.dev/progressive-web-apps/) -  
-*[OCR](https://en.wikipedia.org/wiki/Optical_character_recognition/) -  
+*[OCR](https://en.wikipedia.org/wiki/Optical_character_recognition/) -
+
+
+## LANDING PAGE
+
+* ![PWA](https://github.com/architlatkar27/miniHack/blob/master/land.png?raw=true)
 
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
 
 ### video Link
 * [Click](https://drive.google.com/file/d/1vBbOBT4eQkQEH0CktANHPm7A24BqmwqH/view?usp=sharing)
@@ -42,7 +48,4 @@ The scoreboard keeps a tab of the players who have completed the hunt along with
 
 * ![PWA](https://github.com/architlatkar27/miniHack/blob/master/b.jpeg?raw=true)
 
-## LANDING PAGE
-
-* ![PWA]()
 
