@@ -26,11 +26,12 @@ The scoreboard keeps a tab of the players who have completed the hunt along with
 
 * ![PWA](https://github.com/architlatkar27/miniHack/blob/master/land.png?raw=true)
 
-## Acknowledgments
+## Features
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* OPTICAL CHARACTER RECOGNITION
+* PWA
+* NIGHT MODE
+* USER AUTHENTICATION
 
 
 ### video Link
