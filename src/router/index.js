@@ -31,8 +31,8 @@ Vue.use(VueRouter)
             if (!localStorage.getItem("id")){
               localStorage.setItem("id", 0)
               localStorage.setItem("time1", )
-            }
-            next();
+            }else
+              next();
           }else{
             next("/")
           }

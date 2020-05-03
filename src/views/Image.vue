@@ -71,6 +71,8 @@
   </div>
   <img src="../assets/hayie.png" :class="[{'alam': tukur},{'imagica': !tukur}]">
 
+
+<input type="checkbox" class="filled-in" checked="checked" v-model="texts" />
 	</div>
 </template>
 <script type="text/javascript">
