@@ -34,3 +34,10 @@ The scoreboard keeps a tab of the players who have completed the hunt along with
 ### Website Link
 * [Treasure Hunt](https://jhabarbhati.co/)
 
+
+
+### PWA SUPPORT
+
+* ![Image description](https://raw.githubusercontent.com/architlatkar27/miniHack/master/a.jpeg)
+
+* ![PWA](https://github.com/architlatkar27/miniHack/blob/master/b.jpeg?raw=true)
