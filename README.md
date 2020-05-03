@@ -41,3 +41,8 @@ The scoreboard keeps a tab of the players who have completed the hunt along with
 * ![Image description](https://raw.githubusercontent.com/architlatkar27/miniHack/master/a.jpeg)
 
 * ![PWA](https://github.com/architlatkar27/miniHack/blob/master/b.jpeg?raw=true)
+
+## LANDING PAGE
+
+* ![PWA]()
+
