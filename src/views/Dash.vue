@@ -5,7 +5,7 @@
     <li class=" collection-item avatar" v-for="(a,i) in list" :key="i" v-show="a.seen">
       <img :src="`https://robohash.org/{i}.png`" alt="" class="circle">
       <span class="title" style="text-transform: uppercase">{{a.username}}</span>
-      <p>Points: {{a.key}}<br>
+      <p>Points: {{+a.key+1}}<br>
       </p>
        <p> <b>completed tasks at</b> {{a.time}} Seconds</p>
     </li>
