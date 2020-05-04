@@ -20,7 +20,7 @@ The scoreboard keeps a tab of the players who have completed the hunt along with
 
 
 ## Built With
-*	[VUEJSASE](https://firebase.google.com/) -  
+*	[VUEJS](https://firebase.google.com/) -  
 *	[PWA](https://web.dev/progressive-web-apps/) -  
 *	[OCR](https://en.wikipedia.org/wiki/Optical_character_recognition/) -
 
