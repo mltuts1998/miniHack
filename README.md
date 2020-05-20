@@ -41,7 +41,7 @@ The scoreboard keeps a tab of the players who have completed the hunt along with
 * [Click](https://drive.google.com/file/d/1vBbOBT4eQkQEH0CktANHPm7A24BqmwqH/view?usp=sharing)
 
 ### Website Link
-* [Treasure Hunt](https://jhabarbhati.co/)
+* [Treasure Hunt](https://jhabarsinghbhati.herokuapp.com/)
 
 
 
